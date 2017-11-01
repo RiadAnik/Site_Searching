@@ -42,6 +42,10 @@ Install a local server (xampp or wamp)
 
 It can be used as a site searching software for a telecommunication company . One can also update the required data through this web application.
 
+# Screenshots of the project
+
+![gp_site_searchin1](https://user-images.githubusercontent.com/21199518/32290007-d7ce2aa6-bf62-11e7-979b-a11229419217.JPG)
+![2](https://user-images.githubusercontent.com/21199518/32290014-e1a6ffee-bf62-11e7-8afe-4880937846c9.JPG)
 
 ## License
 
